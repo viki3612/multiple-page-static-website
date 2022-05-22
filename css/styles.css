@@ -1,8 +1,20 @@
 body {
   background: #f8e8a6;
+  display: block auto;
 }
-a {
+h1,
+p {
+  text-align: center;
+}
+h1 {
+  font-weight: bold;
+}
+footer a {
   color: green;
+  margin: 0 10px;
+}
+footer {
+  text-align: center;
 }
 .croissant-photo {
   max-width: 100%;
